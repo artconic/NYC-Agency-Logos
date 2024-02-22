@@ -8,8 +8,12 @@ The Agency Logo’s was created by following the New York City Council’s guide
 
 **Agency Logo's**
 
-NYC Administration for Children's Services (ACS)  [https://github.com/artconic/NYC-Agency-Logos/assets/33140773/ed2d716e-25c2-4708-a57a-fafede716909]
+**NYC Administration for Children's Services (ACS)**  
 
-NYC Board of Correction (BOC)    ![NYC Board of Correction (BOC)_Horizontal_582 × 304]
+**NYC Board of Correction (BOC)**    
+
+**NYC Administration for Children's Services (ACS)**  
+
+**NYC Board of Correction (BOC)**    
 
 
