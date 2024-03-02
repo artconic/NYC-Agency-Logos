@@ -14,6 +14,6 @@ The Agency Logo’s was created by following the New York City Council’s guide
 
 **NYC Administration for Children's Services (ACS)**  
 
-**NYC Board of Correction (BOC)**    
+**NYC Board of Correction (BOC)**    [https://github.com/artconic/NYC-Agency-Logos/wiki/Department-of-Finance](url)
 
 
