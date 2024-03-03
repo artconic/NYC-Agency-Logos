@@ -6,18 +6,10 @@ The Agency Logo’s was created by following the New York City Council’s guide
 ![Screen Shot 2024-02-22 at 4 25 16 PM](https://github.com/artconic/NYC-Agency-Logos/assets/33140773/701aaac0-74d0-4f55-928f-887c01feb675)
 
 
-**Agency Logo's**
+**Agency Logo's** (https://github.com/artconic/NYC-Agency-Logos/wiki)
 
-**NYC Administration for Children's Services (ACS)** 
-https://github.com/artconic/NYC-Agency-Logos/assets/33140773/345a44c4-c6dd-4a59-b4b3-06d31f46adff
 
-**NYC Board of Correction (BOC)**  
-https://github.com/artconic/NYC-Agency-Logos/assets/33140773/345a44c4-c6dd-4a59-b4b3-06d31f46adff
+**Agency (PDF) Book of Logo's** (https://github.com/artconic/NYC-Agency-Logos/wiki/NYC-Agency-%E2%80%90-Book-of-Logo's-(PDF))
 
-**NYC Administration for Children's Services (ACS)**
-https://github.com/artconic/NYC-Agency-Logos/assets/33140773/345a44c4-c6dd-4a59-b4b3-06d31f46adff
-
-**NYC Board of Correction (BOC)**    
-[https://github.com/artconic/NYC-Agency-Logos/wiki/Department-of-Finance](url)
 
 
